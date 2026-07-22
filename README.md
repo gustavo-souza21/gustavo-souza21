@@ -56,14 +56,7 @@ Tenho experiência com **aplicações web** e **sistemas educacionais gamificado
 
 ## Estatísticas
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gustavo-souza21&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-souza21&layout=compact&theme=dark&hide_border=true" width="42%"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavo-souza21&theme=dark&hide_border=true" width="60%"/>
-</p>
+<p align="center"> <img src="https://img.shields.io/github/followers/gustavo-souza21?label=Followers&style=for-the-badge&color=58A6FF&logoColor=white"/> <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/gustavo-souza21&label=Repos&query=public_repos&style=for-the-badge&color=58A6FF"/> <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/gustavo-souza21&label=Public+Gists&query=public_gists&style=for-the-badge&color=58A6FF"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavo-souza21&theme=dark&hide_border=true" width="60%"/> </p> 
 
 <hr>
 
