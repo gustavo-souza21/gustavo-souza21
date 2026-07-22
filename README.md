@@ -10,12 +10,13 @@
 
 <hr>
 
-## 🧩 Atualmente focado em...
+## Atualmente focado em...
 
 <table>
 <tr>
 <td width="260">
-<img src="https://raw.githubusercontent.com/gustavo-souza21/gustavo-souza21/main/assets/profile.png" width="240" alt="dev pixel art"/>
+<img width="260" height="260" alt="Adobe Express - WhatsApp Video 2026-07-22 at 19 30 46 (2)" src="https://github.com/user-attachments/assets/fc4342df-565c-4c80-801c-abc171d1c37e" />
+
 </td>
 <td>
 
@@ -32,46 +33,28 @@
 
 <hr>
 
-## 🙋‍♂️ Sobre mim
+## Sobre mim
 
 Meu nome é **Gustavo Souza**, estou cursando **Sistemas de Informação** no **ICET/UFAM**, atualmente no **6º período**.
 
 Tenho experiência com **aplicações web** e **sistemas educacionais gamificados**, unindo desenvolvimento de software a metodologias que tornam o aprendizado mais engajador. Gosto de aprender coisas novas e estou em busca de **oportunidades e experiências** para contribuir de forma positiva em projetos, ideias e sistemas — sempre aplicando **boas práticas, organização e eficiência** na performance das aplicações que desenvolvo.
 
-<hr>
-
-## 🚀 Projetos em destaque
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| **E-Project** | PWA para gestão de projetos acadêmicos da UFAM (trabalho em equipe) | React · Node.js/Express · PostgreSQL · Firebase |
-| **petshop_poo** | Sistema de gestão para pet shop com arquitetura em camadas e triggers | Python · PostgreSQL |
-| **TP4-MVP** | App mobile com 8 telas para Engenharia de Software I | Flutter |
-| **RPG Sheet Builder** | Ficha de personagem de RPG estilo D&D Beyond, com suporte a sistemas homebrew | Flask · PostgreSQL |
-
-<hr>
-
-## 🛠️ Tecnologias
+## Tecnologias
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 <hr>
 
-## 📊 Estatísticas
+## Estatísticas
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=gustavo-souza21&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%"/>
@@ -84,7 +67,7 @@ Tenho experiência com **aplicações web** e **sistemas educacionais gamificado
 
 <hr>
 
-## 📫 Contato
+## Contato
 
 <p>
 <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
