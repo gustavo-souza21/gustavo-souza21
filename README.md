@@ -20,8 +20,6 @@
 </td>
 <td>
 
-- 🌐 Desenvolvimento **Full Stack** com **React**, **Node.js/Express** e **PostgreSQL**
-- 📱 Aplicações móveis com **Flutter**
 - 🎲 Projetos pessoais aplicando **gamificação** como metodologia de ensino/engajamento
 - 🎓 Engenharia de Software: requisitos, arquitetura (C4 Model), testes automatizados
 - 🧪 Pesquisa aplicada via **PIBITI/PIBIC**
