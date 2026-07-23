@@ -1,6 +1,7 @@
 <div align="center">
 
 # Bem-vindo ao meu GitHub! 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=700&color=00008B&center=true&vCenter=true&width=420&lines=Welcome+to+my+GitHub!" alt="typing animation"/> </div> <br> <hr>
 
 <img src="./assets/typing.gif" width="500" alt="typing animation"/>
 
