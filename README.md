@@ -14,10 +14,10 @@
 </td>
 <td>
 
-- 🎲 Projetos pessoais aplicando **gamificação** como metodologia de ensino/engajamento
-- 🎓 Engenharia de Software: requisitos, arquitetura (C4 Model), testes automatizados
-- 🧪 Pesquisa aplicada via **PIBITI/PIBIC**
-- ♟️ RPGs de mesa (Eberron/D&D) e projetos autorais no tempo livre
+-  Projetos pessoais aplicando **gamificação** como metodologia de ensino/engajamento
+-  Engenharia de Software: requisitos, arquitetura (C4 Model), testes automatizados
+-  Pesquisa aplicada via **PIBITI/PIBIC**
+-  RPGs de mesa (Eberron/D&D) e projetos autorais no tempo livre
 
 </td>
 </tr>
